@@ -1,7 +1,5 @@
-# bash-allergy-checker
-Bash script for allergy score analysis
-# Bash Allergy Checker
 
+# Bash Allergy Checker
 A bash script to determine allergies based on a numeric allergy score.
 
 ## Allergens and Their Values
